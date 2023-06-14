@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @RomaLetodiani
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React Development in Digital Institute
+- 💞️ I’m looking to collaborate on projects
+
+- 🎈 How to reach me 🎈
+- 📫 Email : Roman.Letodiani03@gmail.com
+- 📞 Phone Number : +999 577 92 08 39
+- 🔗 LinkedIn : https://www.linkedin.com/in/letodiani-roma/
+- 🔗 FaceBook : https://www.facebook.com/LetodianiRoma
+- 🔗 Twitter : https://twitter.com/L3todianiRoma
+- 🔗 InstaGram : https://www.instagram.com/roma.letodiani/
