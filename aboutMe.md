@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RomaLetodiani
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Development at Digital Institute
+- 💜 I'm also learning Javascript Development and Figma: UI/UX Design on Udemy
 - 💞️ I’m looking to collaborate on projects
 
 - 🎈 How to reach me 🎈
