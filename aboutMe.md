@@ -6,21 +6,21 @@ React, Node.js, Javascript, MongoDB, Express.js,
 Figma, SEO, HTML, CSS, SAAS, Bootstrap, Tailwind, 
 JQuery, Git & Github, WordPress, Web Hosting, ChatGPT, Canva,
 
-Enrolled in a Digital institute where I'm studying a range of web development and programming topics. These include 
+- Enrolled in a Digital institute where I'm studying a range of web development and programming topics. These include 
 React, Redux, JavaScript, TypeScript, functional programming, HTML, Git & GitHub, CSS, Tailwind, Styled-components, and Material-UI.
 
-Practicing on FreeCodeCamp about Javascript Algorithms Data Structures, 
+- Practicing on FreeCodeCamp about Javascript Algorithms Data Structures, 
 Front End Development Libraries (Bootstrap, JQuery, SASS, React, Redux), 
 Responsive Web Design, Data Visualization.
 
-Taking quizzes on SoloLearn about Coding Foundations & Web Development. Completing challenges from Frontendmentor.
+- Taking quizzes on SoloLearn about Coding Foundations & Web Development. Completing challenges from Frontendmentor.
 
-Outside of courses, quizzes and challenges, 
+- Outside of courses, quizzes and challenges, 
 I freelance, crafting responsive dynamic and user-friendly interfaces, 
 landing pages, sales pages, and more. I enjoy taking on diverse projects, 
 from restaurant menu creation to personal portfolios. 
 
-Moreover, I'm working on my own application, soon to be in production. 
+- Moreover, I'm working on my own application, soon to be in production. 
 With a passion for web development and a drive for excellence, I'm always 
 ready for new challenges and opportunities in this dynamic field.
 
