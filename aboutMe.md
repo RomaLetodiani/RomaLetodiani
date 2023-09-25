@@ -1,20 +1,28 @@
-- 👋 Hi, I’m @RomaLetodiani
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Development at Digital Institute
-- 💜 I'm also taking courses on Udemy about react js figma git github html css and etc
-- 💞️ I’m looking to collaborate on projects
-
-- 🎈 How to reach me 🎈
-- 📫 Email : Roman.Letodiani03@gmail.com
-- 📞 Phone Number : +999 577 92 08 39
-- 🔗 LinkedIn : https://www.linkedin.com/in/letodiani-roma/
-- 🔗 FaceBook : https://www.facebook.com/LetodianiRoma
-- 🔗 Twitter : https://twitter.com/L3todianiRoma
-- 🔗 InstaGram : https://www.instagram.com/roma.letodiani/
 <h1 align="center">Hi 👋, I'm Roman letodiani</h1>
 <h3 align="center">A passionate React Developer | Front-End Developer | UI/UX Designer | Upcoming MERN Stack Developer from Georgia</h3>
 
-- 🌱 I’m currently learning **rar**
+- 🌱 I’m currently Taking courses on Udemy about: 
+React, Node.js, Javascript, MongoDB, Express.js, 
+Figma, SEO, HTML, CSS, SAAS, Bootstrap, Tailwind, 
+JQuery, Git & Github, WordPress, Web Hosting, ChatGPT, Canva,
+
+Enrolled in a Digital institute where I'm studying a range of web development and programming topics. These include 
+React, Redux, JavaScript, TypeScript, functional programming, HTML, Git & GitHub, CSS, Tailwind, Styled-components, and Material-UI.
+
+Practicing on FreeCodeCamp about Javascript Algorithms Data Structures, 
+Front End Development Libraries (Bootstrap, JQuery, SASS, React, Redux), 
+Responsive Web Design, Data Visualization.
+
+Taking quizzes on SoloLearn about Coding Foundations & Web Development. Completing challenges from Frontendmentor.
+
+Outside of courses, quizzes and challenges, 
+I freelance, crafting responsive dynamic and user-friendly interfaces, 
+landing pages, sales pages, and more. I enjoy taking on diverse projects, 
+from restaurant menu creation to personal portfolios. 
+
+Moreover, I'm working on my own application, soon to be in production. 
+With a passion for web development and a drive for excellence, I'm always 
+ready for new challenges and opportunities in this dynamic field.
 
 - 📫 How to reach me **Roman.Letodiani03@gmail.com**
 
