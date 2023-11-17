@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman letodiani</h1>
-<h3 align="center">A passionate React Developer | Front-End Developer | UI/UX Designer | Upcoming MERN Stack Developer from Georgia</h3>
+<h3 align="center">A passionate Software Engineer | React | TypeScript | Data Structures, Algorithms & System Design Enthusiast from Georgia</h3>
 
 - 🌱 I’m currently Taking courses on Udemy about: 
 React, Node.js, Javascript, MongoDB, Express.js, 
