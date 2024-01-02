@@ -1,32 +1,19 @@
 <h1 align="center">Hi 👋, I'm Roman letodiani</h1>
 <h3 align="center">Software Engineer | React | TypeScript | Data Structures, Algorithms & System Design Enthusiast from Georgia</h3>
 
-- 🌱 I’m currently Taking courses on Udemy about: 
-React, Node.js, Javascript, MongoDB, Express.js, 
-Figma, SEO, HTML, CSS, SAAS, Bootstrap, Tailwind, 
-JQuery, Git & Github, WordPress, Web Hosting, ChatGPT, Canva,
+- Frontend Web Developer at CallApp, specializing in crafting robust, scalable solutions by utilizing React with TypeScript.
 
-- Enrolled in a Digital institute where I'm studying a range of web development and programming topics. These include 
-React, Redux, JavaScript, TypeScript, functional programming, HTML, Git & GitHub, CSS, Tailwind, Styled-components, and Material-UI.
+-  Beyond my role, I'm currently broadening my expertise in Data Structures, Algorithms & System Design under the guidance of Stephane Gurgenidze, an Amazon Software Development Engineer. This endeavor aims to empower me to craft more efficient solutions.
 
-- Practicing on FreeCodeCamp about Javascript Algorithms Data Structures, 
-Front End Development Libraries (Bootstrap, JQuery, SASS, React, Redux), 
-Responsive Web Design, Data Visualization.
+- As a  committed learner, I've also completed numerous Udemy courses, accumulating over 100 certificates in various web development, programming, and related domains. These courses have been instrumental in honing my skills, providing diverse perspectives and deepening my understanding of different facets within the field.
 
-- Taking quizzes on SoloLearn about Coding Foundations & Web Development. Completing challenges from Frontendmentor.
+- My journey in Frontend Web Development began with a 7-month React course at Digital Institute, where I explored diverse programming and web development aspects.
 
-- Outside of courses, quizzes and challenges, 
-I freelance, crafting responsive dynamic and user-friendly interfaces, 
-landing pages, sales pages, and more. I enjoy taking on diverse projects, 
-from restaurant menu creation to personal portfolios. 
+- Supporting junior developers fuels my passion. I've mentored in React.js across two comprehensive courses, fostering a collaborative learning environment through hands-on guidance and meticulous code reviews.
 
-- Moreover, I'm working on my own application, soon to be in production. 
-With a passion for web development and a drive for excellence, I'm always 
-ready for new challenges and opportunities in this dynamic field.
+- My commitment to growth is unwavering. Daily, I engage in rigorous practice, quizzes, and challenges on platforms like LeetCode, CodeWars, Exercism, Frontendmentor, CodeForces, FreeCodeCamp & SoloLearn.
 
-- 📫 How to reach me **Roman.Letodiani03@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/letodiani-roma/](https://www.linkedin.com/in/letodiani-roma/)
+- Driven by a passion for software development and engineering, I'm always eager to embrace fresh challenges and explore new opportunities in this continually evolving field.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
