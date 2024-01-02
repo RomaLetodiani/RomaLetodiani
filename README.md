@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman letodiani</h1>
-<h3 align="center">Software Engineer | React | TypeScript | Data Structures, Algorithms & System Design Enthusiast from Georgia</h3>
+<h3 align="center">Software Engineer | Data Structures, Algorithms & System Design Enthusiast from Georgia</h3>
 
 - Frontend Web Developer at CallApp, specializing in crafting robust, scalable solutions by utilizing React with TypeScript.
 
