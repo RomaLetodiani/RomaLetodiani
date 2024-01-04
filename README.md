@@ -29,15 +29,13 @@ Software Engineer Data Structures, Algorithms & System Design Enthusiast
 
 <a href="http://www.github.com/RomaLetodiani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RomaLetodiani&stroke=ffffff&background=1c1917&ring=aa4203&fire=aa4203&currStreakNum=ffffff&currStreakLabel=aa4203&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/RomaLetodiani"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romaletodiani&show_icons=true&locale=en&layout=compact" alt="romaletodiani" /></a>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/romaletodiani"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+- <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/romaletodiani"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/romaletodiani"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+- <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/romaletodiani"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
 
