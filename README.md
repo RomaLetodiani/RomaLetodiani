@@ -1,5 +1,19 @@
 Hi 👋 My name is Roman Letodiani
 ================================
+
+Software Engineer | Data Structures, Algorithms & System Design Enthusiast
+--------------------------------------------------------------------------
+
+* 🌍  I'm based in Tbilisi, Georgia (open to relocation)
+* ✉️  You can contact me at [Roman.Letodiani03@gmail.com](mailto:Roman.Letodiani03@gmail.com)
+* 🧠  I'm learning Node JS, MongoDB, Express
+* 🤝  I'm open to collaborating on fresh challenges and explore new opportunities in this continually evolving field.
+* ⚡  [LeetCode](https://leetcode.com/romanLetodiani/), [CodeWars](https://www.codewars.com/users/RomaLetodiani), [Exercism](https://exercism.org/profiles/RomaLetodiani), [Frontendmentor](https://www.frontendmentor.io/profile/RomaLetodiani), [CodeForces](https://codeforces.com/profile/roman.letodiani03), [FreeCodeCamp](https://www.freecodecamp.org/RomanLetodiani) & [SoloLearn](https://www.sololearn.com/en/profile/30057030).
+
+
+
+<!-- Hi 👋 My name is Roman Letodiani
+================================
 <h3 align="center">Software Engineer | Data Structures, Algorithms & System Design Enthusiast from Georgia</h3>
 
 - Frontend Web Developer at CallApp, specializing in crafting robust, scalable solutions by utilizing React with TypeScript.
