@@ -1,7 +1,7 @@
 Hi 👋 My name is Roman Letodiani
 ================================
 
-Software Development Engineer | Data Structures | Algorithms | System Design Enthusiast
+Software Development Engineer
 --------------------------------------------------------------------------
 
 * 🌍  I'm based in Tbilisi, Georgia (open to relocation)
