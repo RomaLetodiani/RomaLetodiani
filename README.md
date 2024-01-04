@@ -29,7 +29,7 @@ Software Engineer Data Structures, Algorithms & System Design Enthusiast
 
 <a href="http://www.github.com/RomaLetodiani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RomaLetodiani&stroke=ffffff&background=1c1917&ring=aa4203&fire=aa4203&currStreakNum=ffffff&currStreakLabel=aa4203&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romaletodiani&show_icons=true&locale=en&layout=compact" alt="romaletodiani" /></p>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romaletodiani&show_icons=true&locale=en&layout=compact" alt="romaletodiani" /></p></div>
 
 ### Support Me
 
