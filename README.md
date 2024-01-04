@@ -7,7 +7,7 @@ Software | Engineer Data Structures | Algorithms | System Design Enthusiast
 * 🌍  I'm based in Tbilisi, Georgia (open to relocation)
 * ✊  Frontend Web Developer at CallApp
 * 📚  Assistant Lecturer at Digital Institute
-* 💻  Mastering Data Structures, Algorithms & System Design under the guidance of Stephane Gurgenidze, an Amazon Software Development Engineer.
+* 💻  Mastering DSA & System Design under the guidance of Stephane Gurgenidze, an Amazon Software Development Engineer.
 * 📑  [100+ certificates](https://www.linkedin.com/in/letodiani-roma/details/certifications/) from Udemy and other platforms
 * ✉️  You can contact me at [Roman.Letodiani03@gmail.com](mailto:Roman.Letodiani03@gmail.com)
 * 🤝  I'm open to collaborating on fresh challenges and explore new opportunities in this continually evolving field.
