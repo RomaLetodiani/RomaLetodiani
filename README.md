@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman Letodiani
-=======================================================================================================================================
+Hi 👋 My name is Daniel Cranney
+===============================
 <h3 align="center">Software Engineer | Data Structures, Algorithms & System Design Enthusiast from Georgia</h3>
 
 - Frontend Web Developer at CallApp, specializing in crafting robust, scalable solutions by utilizing React with TypeScript.
