@@ -7,9 +7,9 @@ Software | Engineer Data Structures | Algorithms | System Design Enthusiast
 * 🌍  I'm based in Tbilisi, Georgia (open to relocation)
 * ✊  Frontend Web Developer at CallApp
 * 📚  Assistant Lecturer at Digital Institute
-* 💻  Mastering DSA & System Design under the guidance of Stephane Gurgenidze, an Amazon Software Development Engineer.
 * 📑  [100+ certificates](https://www.linkedin.com/in/letodiani-roma/details/certifications/) from Udemy and other platforms
 * ✉️  You can contact me at [Roman.Letodiani03@gmail.com](mailto:Roman.Letodiani03@gmail.com)
+* 💻  Mastering DSA & System Design under the guidance of Stephane Gurgenidze, an Amazon Software Development Engineer.
 * 🤝  I'm open to collaborating on fresh challenges and explore new opportunities in this continually evolving field.
 * 📆  Daily, I engage in rigorous practice, quizzes, and challenges on platforms like:
 * ⚡  [LeetCode](https://leetcode.com/romanLetodiani/) | [CodeWars](https://www.codewars.com/users/RomaLetodiani) | [Exercism](https://exercism.org/profiles/RomaLetodiani) | [Frontendmentor](https://www.frontendmentor.io/profile/RomaLetodiani) | [CodeForces](https://codeforces.com/profile/roman.letodiani03) | [FreeCodeCamp](https://www.freecodecamp.org/RomanLetodiani) | [SoloLearn](https://www.sololearn.com/en/profile/30057030).
