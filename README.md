@@ -31,6 +31,16 @@ Software Engineer Data Structures, Algorithms & System Design Enthusiast
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romaletodiani&show_icons=true&locale=en&layout=compact" alt="romaletodiani" /></p>
 
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/romaletodiani"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/romaletodiani"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
+
 <!-- Hi 👋 My name is Roman Letodiani
 ================================
 <h3 align="center">Software Engineer Data Structures, Algorithms & System Design Enthusiast from Georgia</h3>
