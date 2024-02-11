@@ -10,7 +10,7 @@ Software Developer
 * 📑  [100+ certificates](https://www.linkedin.com/in/letodiani-roma/details/certifications/) from Udemy and other platforms
 * ✉️  You can contact me at [Roman.Letodiani03@Gmail.com](mailto:Roman.Letodiani03@Gmail.com)
 * 💻  Mastering DSA & System Design under the guidance of Stephane Gurgenidze, an Amazon Software Development Engineer.
-* 📖  Expanding my skills in backend development (NodeJS) under the mentorship of Nikoloz Tskhvedadze, an Expert Developer at Bank Of Georgia.
+* 📖  Expanding my skills in backend development under the mentorship of Nikoloz Tskhvedadze, an Expert Developer at Bank Of Georgia.
 * 🤝  I'm open to collaborating on fresh challenges and explore new opportunities in this continually evolving field.
 * 📆  Daily, I engage in rigorous practice, quizzes, and challenges on platforms like:
 * ⚡  [LeetCode](https://leetcode.com/romanLetodiani/) | [CodeWars](https://www.codewars.com/users/RomaLetodiani) | [Exercism](https://exercism.org/profiles/RomaLetodiani) | [Frontendmentor](https://www.frontendmentor.io/profile/RomaLetodiani) | [CodeForces](https://codeforces.com/profile/roman.letodiani03) | [FreeCodeCamp](https://www.freecodecamp.org/RomanLetodiani) | [SoloLearn](https://www.sololearn.com/en/profile/30057030).
