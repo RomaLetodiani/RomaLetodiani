@@ -14,6 +14,7 @@ Software Developer
 * 🤝  I'm open to collaborating on fresh challenges and explore new opportunities in this continually evolving field.
 * 📆  Daily, I engage in rigorous practice, quizzes, and challenges on platforms like:
 * ⚡  [LeetCode](https://leetcode.com/romanLetodiani/) | [CodeWars](https://www.codewars.com/users/RomaLetodiani) | [Exercism](https://exercism.org/profiles/RomaLetodiani) | [Frontendmentor](https://www.frontendmentor.io/profile/RomaLetodiani) | [CodeForces](https://codeforces.com/profile/roman.letodiani03) | [FreeCodeCamp](https://www.freecodecamp.org/RomanLetodiani) | [SoloLearn](https://www.sololearn.com/en/profile/30057030).
+### [![LeetCode user romanLetodiani](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FromanLetodiani&logo=leetcode&logoColor=yellow)](https://leetcode.com/romanLetodiani/)
 
 ### Socials
 
