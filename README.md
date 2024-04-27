@@ -9,8 +9,8 @@
 
 
 * 🌍  I'm based in Tbilisi, Georgia (open to relocation)
-* ✊  Frontend Web Developer at CallApp
-* 📚  Assistant Lecturer at Digital Institute
+* ✊  Software Developer at CallApp
+* 📚  Lecturer at Digital Institute
 * 📑  [100+ certificates](https://www.linkedin.com/in/letodiani-roma/details/certifications/) from Udemy and other platforms
 * ✉️  You can contact me at [Roman.Letodiani03@Gmail.com](mailto:Roman.Letodiani03@Gmail.com)
 * 💻  Mastering DSA & System Design under the guidance of Stephane Gurgenidze, an Amazon Software Development Engineer.
