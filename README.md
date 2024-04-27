@@ -14,7 +14,7 @@
 * 📑  [100+ certificates](https://www.linkedin.com/in/letodiani-roma/details/certifications/) from Udemy and other platforms
 * ✉️  You can contact me at [Roman.Letodiani03@Gmail.com](mailto:Roman.Letodiani03@Gmail.com)
 * 💻  Mastering Data Structures & Algorithms under the guidance of [Stephane Gurgenidze](https://www.linkedin.com/in/sw10pa), an Amazon Software Development Engineer.
-* 🌐  Enhancing expertise in System Design and Data Science under the guidance of [Sopiko Kurdadze](https://www.linkedin.com/in/sopiko-kurdadze), an AI Engineer at SILO AI.
+* 🌐  Enhancing proficiency in System Design and Data Science with the expertise of [Sopiko Kurdadze](https://www.linkedin.com/in/sopiko-kurdadze), an AI Engineer at SILO AI.
 * 📖  Expanding my skills in Full-stack development with the mentorship of [Nikoloz Tskhvedadze](https://www.linkedin.com/in/nikoloz-tskhvedadze), an Expert Developer at Bank Of Georgia.
 * 🤝  I'm open to collaborating on fresh challenges and explore new opportunities in this continually evolving field.
 
