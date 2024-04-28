@@ -37,4 +37,4 @@
 
 ![RomaLetodiani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=onedark&rank=S)
+![trophy](https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=onedark&rank=SECRET&rank=S)
