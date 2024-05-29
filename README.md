@@ -16,7 +16,7 @@
 * 🌀  Have 30 Minutes call with me - [Click Here To Schedule the Call](https://calendly.com/roman-letodiani03/30min)
 * 🤝  I'm open to collaborating on fresh challenges and explore new opportunities in this continually evolving field.
 
-* ⚡  [LeetCode](https://leetcode.com/romanLetodiani/)
+* ⚡  [LeetCode](https://leetcode.com/romaLetodiani/)
 
 ### [![LeetCode user romanLetodiani](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FromanLetodiani&logo=leetcode&logoColor=yellow)](https://leetcode.com/romaLetodiani/)
 
