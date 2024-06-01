@@ -11,7 +11,7 @@
 * 🌍  I'm based in Tbilisi, Georgia (open to relocation)
 * ✊  Software Developer at CallApp
 * 📚  Lecturer at Digital Institute
-* 📑  [100+ certificates](https://www.linkedin.com/in/letodiani-roma/details/certifications/) from Udemy and other platforms
+* 📑  [100+ certificates](https://rl-certificates.vercel.app/) from Udemy and other platforms
 * ✉️  You can contact me at [Roman.Letodiani03@Gmail.com](mailto:Roman.Letodiani03@Gmail.com)
 * 🌀  Have 30 Minutes call with me - [Click Here To Schedule the Call](https://calendly.com/roman-letodiani03/30min)
 * 🤝  I'm open to collaborating on fresh challenges and explore new opportunities in this continually evolving field.
