@@ -20,19 +20,12 @@
 
 ### [![LeetCode user romaLetodiani](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FromaLetodiani&logo=leetcode&logoColor=yellow)](https://leetcode.com/romaLetodiani/)
 
-### Socials
-
-<p align="left">
-<a href="https://twitter.com/l3todianiroma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l3todianiroma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/letodiani-roma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="letodiani-roma" height="30" width="40" /></a>
-<a href="https://fb.com/letodianiroma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="letodianiroma" height="30" width="40" /></a>
-<a href="https://instagram.com/roma.letodiani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roma.letodiani" height="30" width="40" /></a>
-</p>
-
 <b>My GitHub Stats</b>
 
-![RomaLetodiani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomaLetodiani&theme=dark&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&rank=SECRET&rank=A&rank=AAA&rank=S&rank=SS&rank=SSS)
 
-![RomaLetodiani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![RomaLetodiani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomaLetodiani&theme=dark)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=onedark&rank=SECRET&rank=AAA&rank=S&rank=SS&rank=SSS)
+![RomaLetodiani's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomaLetodiani&show_icons=true&layout=compact&theme=dark)      
+
+![ RomaLetodiani'sGitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&layout=compact&theme=dark&langs_count=12) 
