@@ -9,7 +9,9 @@
 
 
 * 🌍  I'm based in Tbilisi, Georgia (open to relocation)
-* ✊  Software Developer at CallApp
+* 🌀  Software Engineer at Supernova
+* ⚙️  Software Engineer at MyCarSpace
+* 🔮  Software Developer at WHIZ.IO
 * 📚  Lecturer at Digital Institute
 * 📑  [100+ certificates](https://rl-certificates.vercel.app/) from Udemy and other platforms
 * ✉️  You can contact me at [Roman.Letodiani03@Gmail.com](mailto:Roman.Letodiani03@Gmail.com)
