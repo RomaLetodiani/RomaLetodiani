@@ -20,22 +20,26 @@
     
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&layout=compact&theme=tokyonight&langs_count=14"/>
-        <br/>
+            <br/>
         <img src="https://streak-stats.demolab.com/?user=RomaLetodiani&theme=tokyonight"/>
+            <br/>
+        <img src="https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A"/>        
+            <br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomaLetodiani&theme=tokyonight">
+            <br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomaLetodiani&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomaLetodiani&theme=tokyonight">
+            <br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomaLetodiani&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomaLetodiani&theme=tokyonight">
-        <br/>
-        <br/>
+            <br/>
+            <br/>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomaLetodiani&theme=rogue"/>
-    
-</p>
+            <br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
         </picture>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&rank=SECRET&rank=A&rank=AAA&rank=S&rank=SS&rank=SSS"/>
