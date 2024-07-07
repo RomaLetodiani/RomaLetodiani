@@ -20,15 +20,17 @@
     
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&layout=compact&theme=tokyonight&langs_count=14"/>
-</p>
-
-<p align="center">
+        <br/>
         <img src="https://streak-stats.demolab.com/?user=RomaLetodiani&theme=tokyonight"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomaLetodiani&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomaLetodiani&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomaLetodiani&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomaLetodiani&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomaLetodiani&theme=tokyonight">
+        <br/>
+        <br/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomaLetodiani&theme=rogue"/>
+    
 </p>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake-dark.svg">
