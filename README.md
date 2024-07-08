@@ -21,11 +21,15 @@
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&layout=compact&theme=tokyonight&langs_count=14"/>
             <br/>
+            <br/>
         <img src="https://streak-stats.demolab.com/?user=RomaLetodiani&theme=tokyonight"/>
+            <br/>
             <br/>
         <img src="https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A"/>        
             <br/>
+            <br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomaLetodiani&theme=tokyonight">
+            <br/>
             <br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomaLetodiani&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomaLetodiani&theme=tokyonight">
