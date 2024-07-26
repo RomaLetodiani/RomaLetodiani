@@ -25,7 +25,7 @@
         <img src="https://streak-stats.demolab.com/?user=RomaLetodiani&theme=tokyonight"/>
             <br/>
             <br/>
-        <img src="https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A"/>        
+        <img src="https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"/>        
             <br/>
             <br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomaLetodiani&theme=tokyonight">
