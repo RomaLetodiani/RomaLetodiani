@@ -19,13 +19,10 @@
 -->
     
 <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&layout=compact&theme=tokyonight&langs_count=14"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"/>        
             <br/>
             <br/>
         <img src="https://streak-stats.demolab.com/?user=RomaLetodiani&theme=tokyonight"/>
-            <br/>
-            <br/>
-        <img src="https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"/>        
             <br/>
             <br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomaLetodiani&theme=tokyonight">
@@ -45,5 +42,8 @@
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
           <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
         </picture>
+<!--             <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&layout=compact&theme=tokyonight&langs_count=14"/>
+            <br/> -->
 </p>
 
