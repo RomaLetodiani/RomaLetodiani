@@ -19,7 +19,7 @@
 -->
     
 <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A"/>        
+        <img src="https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"/>        
             <br/>
             <br/>
         <img src="https://streak-stats.demolab.com/?user=RomaLetodiani&theme=tokyonight"/>
