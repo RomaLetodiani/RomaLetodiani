@@ -3,19 +3,13 @@
 </a>
 
 
-<!-- * 🌍  I'm based in Tbilisi, Georgia (open to relocation)
-* 🌀  Software Engineer at Supernova
-* ⚙️  Software Engineer at MyCarSpace
-* 🔮  Software Developer at WHIZ.IO
-* 📚  Lecturer at Digital Institute
-* 📑  [100+ certificates](https://rl-certificates.vercel.app/) from Udemy and other platforms
-* ✉️  You can contact me at [Roman.Letodiani03@Gmail.com](mailto:Roman.Letodiani03@Gmail.com)
-* 🌀  Have 30 Minutes call with me - [Click Here To Schedule the Call](https://calendly.com/roman-letodiani03/30min)
-* 🤝  I'm open to collaborating on fresh challenges and explore new opportunities in this continually evolving field.
+<!-- * 
+HeHe you're in my ReadMe
 
 * ⚡  [LeetCode](https://leetcode.com/romaLetodiani/)
 
 ### [![LeetCode user romaLetodiani](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FromaLetodiani&logo=leetcode&logoColor=yellow)](https://leetcode.com/romaLetodiani/)
+
 -->
     
 <p align="center">
