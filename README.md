@@ -11,7 +11,7 @@ HeHe you're in my ReadMe
 ### [![LeetCode user romaLetodiani](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FromaLetodiani&logo=leetcode&logoColor=yellow)](https://leetcode.com/romaLetodiani/)
 
 -->
-    
+
 <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=RomaLetodiani&theme=darkhub&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A"/>        
             <br/>
@@ -29,12 +29,18 @@ HeHe you're in my ReadMe
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomaLetodiani&theme=tokyonight">
             <br/>
             <br/>
+        <p align="center">
+            <a href="https://user-badge.committers.top/georgia_private/RomaLetodiani"><img src="https://user-badge.committers.top/georgia_private/RomaLetodiani.svg" alt="Total time coded since Jun 13 2024" /></a>
+            <a href="https://wakatime.com/@080fbc21-b845-4842-9f66-7f091005d525"><img src="https://wakatime.com/badge/user/080fbc21-b845-4842-9f66-7f091005d525.svg" alt="Total time coded since Jun 13 2024" /></a>
+        </p>
+            <br/>
+            <br/>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomaLetodiani&theme=rogue"/>
             <br/>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
-          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
+          <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
         </picture>
 <!--             <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&layout=compact&theme=tokyonight&langs_count=14"/>
