@@ -37,6 +37,11 @@ HeHe you're in my ReadMe
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=RomaLetodiani&theme=rogue"/>
             <br/>
         <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph.svg">
+          <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph.svg">
+        </picture>
+        <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
           <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
