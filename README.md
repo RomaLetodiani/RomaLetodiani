@@ -48,8 +48,5 @@ HeHe you're in my ReadMe
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
           <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/github-contribution-grid-snake.svg">
         </picture>
-<!--             <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLetodiani&layout=compact&theme=tokyonight&langs_count=14"/>
-            <br/> -->
 </p>
 
